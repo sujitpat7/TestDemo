@@ -10,6 +10,9 @@ namespace TestGIT
     {
         static void Main(string[] args)
         {
+            //testing
+            var t = 0;
+
         }
     }
 }
